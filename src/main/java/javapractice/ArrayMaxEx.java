@@ -14,7 +14,7 @@ public class ArrayMaxEx {
 				max=a[i];
 			}
 				
-		}System.out.println("Maximum number is : " + max);
+		}System.out.println("Maximum number in given array is : " + max);
 
 	}
 
